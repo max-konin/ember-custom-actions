@@ -8,6 +8,4 @@ export {
   customAction,
   resourceAction,
   AdapterMixin,
-  RESTSerializer,
-  JSONAPISerializer
 };
